@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: #6b2952;
+}
+.nav-link{
+    text-transform: uppercase;
+    background-color: aliceblue;
+    color: rgba(193, 231, 22, 0.959);
+    margin-right: 1.5rem;
+}
+.nav-link:hover{
+    background-color: rgb(124, 155, 39);
+    color: black;
+}
+
+.card-img{
+    height: 20%;
+}
+.card{
+    border: 2px solid;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px;
+
+}
+.card:hover{
+    color: black;
+    background-color: rgb(131, 104, 156);
+}
+
+.form{
+    margin-top: 3rem;
+    background-color: rgba(242, 247, 222, 0.918);
+    padding: 2rem;
+    border: 2px solid plum;
+}
